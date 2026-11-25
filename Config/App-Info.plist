@@ -31,7 +31,7 @@
 	<key>SUEnableSystemProfiling</key>
 	<false/>
 	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/NidaleNieve/Fandy_MacOS/updates/appcast.xml</string>
+	<string>https://raw.githubusercontent.com/LucasFormiga/Fandy_MacOS/updates/appcast.xml</string>
 	<key>SUPublicEDKey</key>
 	<string>r1rhWlckhD4L2XF7jj3KacSd85dJHO3VKeR7bTRGbK8=</string>
 	<key>SUScheduledCheckInterval</key>
